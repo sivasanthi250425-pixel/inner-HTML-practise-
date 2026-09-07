@@ -1,0 +1,17 @@
+#container{
+    color:rgb(132, 4, 132);
+}
+.buybutton{
+    background-color:palevioletred;
+    color:white;
+    width:100px;
+    padding:5px 5px;
+font-size:20px;
+border-radius:5px;
+border:2px solid none;
+border-color:transparent;
+}
+body{
+    background-color:skyblue;
+    font-size:30px;
+}
